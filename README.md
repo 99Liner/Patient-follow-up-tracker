@@ -2,9 +2,14 @@
 
 A healthcare-focused web application designed to help clinic staff manage patient follow-up tasks, priorities, assigned staff, due dates, and patient reponse follow ups.
 
+## Disclaimer
+
+This project is a portfolio and educational application only. No real patient information or protected health information (PHI) is used, stored, or displayed within this application.
+
 ## Project Status
 
 Currently in design and early development in Figma https://www.figma.com/design/ghYLpWT04dJEBdIKke4ILV/Prototype-Recep?node-id=13-3&t=g2OG06uW5XlPZq0B-1.
+Documentation: https://docs.google.com/document/d/12qArkDCo8F98xUXWMX2E_zBoE_CLYhstFRNeumzvsr8/edit?usp=sharing.
 
 ## Purpose
 
