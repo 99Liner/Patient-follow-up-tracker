@@ -4,7 +4,7 @@ A healthcare-focused web application designed to help clinic staff manage patien
 
 ## Project Status
 
-Currently in design and early development.
+Currently in design and early development in Figma https://www.figma.com/design/ghYLpWT04dJEBdIKke4ILV/Prototype-Recep?node-id=13-3&t=g2OG06uW5XlPZq0B-1.
 
 ## Purpose
 
