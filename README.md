@@ -1,10 +1,15 @@
 # Patient Follow-Up Tracker
 
-A healthcare-focused web application designed to help clinic staff manage patient follow-up tasks, priorities, assigned staff, due dates, and response history.
+A healthcare-focused web application designed to help clinic staff manage patient follow-up tasks, priorities, assigned staff, due dates, and patient reponse follow ups.
+
+## Disclaimer
+
+This project is a portfolio and educational application only. No real patient information or protected health information (PHI) is used, stored, or displayed within this application.
 
 ## Project Status
 
-Currently in design and early development.
+Currently in design and early development in Figma https://www.figma.com/design/ghYLpWT04dJEBdIKke4ILV/Prototype-Recep?node-id=13-3&t=g2OG06uW5XlPZq0B-1.
+Documentation: https://docs.google.com/document/d/12qArkDCo8F98xUXWMX2E_zBoE_CLYhstFRNeumzvsr8/edit?usp=sharing.
 
 ## Purpose
 
@@ -15,26 +20,28 @@ This project simulates a real-world internal clinic workflow tool. It is designe
 - Add patient follow-up tasks
 - Track priority level
 - Assign follow-ups to staff
-- Add provider information
+- Recieve task from providers
 - Set optional due dates
 - Store internal notes
-- View activity history or response timeline
+- Track front desk tasks
 - Filter follow-ups by status and priority
 
 ## Tech Stack
 
+### Design
+- Figma
+- Google Docs
+
 ### Frontend
-- React
-- Vite
+- Next.js
 - CSS
+- MDB libraries
 
 ### Backend
 - Node.js
 - Express.js
 - MongoDB
 
-### Design
-- Figma
 
 ## Design
 
@@ -42,8 +49,8 @@ UI/UX wireframes and mockups are being created in Figma before development.
 
 ## Future Improvements
 
-- User authentication
+- User login
 - Role-based access
-- Calendar view
-- Reports dashboard
-- Email or reminder notifications
+- Filter Follow up priotity
+- Patient profile access
+- Message notifications to patient (email)
