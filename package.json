@@ -21,5 +21,19 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
     "tailwindcss": "^4"
-  }
+  },
+  "description": "A healthcare-focused web application designed to help clinic staff manage patient follow-up tasks, priorities, assigned staff, due dates, and patient reponse follow ups.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/99Liner/Patient-follow-up-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/99Liner/Patient-follow-up-tracker/issues"
+  },
+  "homepage": "https://github.com/99Liner/Patient-follow-up-tracker#readme"
 }

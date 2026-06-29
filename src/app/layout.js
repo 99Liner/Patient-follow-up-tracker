@@ -1,6 +1,6 @@
 import "./global.css";
-import Sidebar from "@/components/Sidebar";
-import Header from "@/components/Header";
+import Sidebar from "../components/sidebar";
+import Header from "../components/header";
 
 export const metadata = {
   title: "Patient Follow-Up Tracker",

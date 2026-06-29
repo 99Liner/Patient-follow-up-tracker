@@ -55,7 +55,7 @@ body {
 }
 
 .header {
-  height: 80px;
+  height: 40px;
   flex-shrink: 0;
   background-color: #f5f3ee;
   border-bottom: 1px solid #c7d1c2;
